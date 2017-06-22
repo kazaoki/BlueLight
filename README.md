@@ -1,6 +1,6 @@
 ﻿![BlueLight](https://github.com/BlueLightJapan/BlueLight/blob/master/logo.jpg)</br>
 
-# BlueLight for 1.11.0(Abandoned)
+# BlueLight for 1.1.1(Abandoned)
 ## Select Language: [English](#ENG) [日本語](#JPN)
 
 
