@@ -2212,7 +2212,7 @@ class Player extends Human implements CommandSender, ChunkLoader, IPlayer{
 		if($this->getServer()->getProperty("SteveKick", false)){
 			if($this->iusername === "steve"){
 				$this->close("", "disconnectionScreen.invalidName");
-				break;
+				return true;
 			}
 		}
 
